@@ -33,12 +33,11 @@ Auctionaire/
 
 ---
 
-###  Team Members  
-. ALBI ALEX
-. AMAL JEBI
-. ABEN OOMMEEN
-. ERIN MARIA WILSON
-
+### Team Members  
+- ALBI ALEX  
+- AMAL JEBI  
+- ABEN OOMMEEN  
+- ERIN MARIA WILSON
 ---
 
 ###  Learning Outcomes  
