@@ -22,6 +22,7 @@ This project demonstrates core concepts in **Java OOP, GUI components, event han
 - **File Handling**
 
 ---
+### Project Structure
 ```
 Auctionaire
 │── AdminGUI.java
