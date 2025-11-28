@@ -22,16 +22,14 @@ This project demonstrates core concepts in **Java OOP, GUI components, event han
 - **File Handling**
 
 ---
-
-###  Project Structure  
-Auctionaire/
+```
+Auctionaire
 │── AdminGUI.java
 │── AuctionServer.java
 │── ButtonColumn.java
 │── Index.html
 │── README.md
-
----
+```
 
 ### Team Members  
 - ALBI ALEX  
